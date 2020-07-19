@@ -1,0 +1,28 @@
+body {
+  background-color: #EAF6F6;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  border-color: grey;
+  height: 4px;
+  width: 4%
+}
+
+img {
+  height: 200px;
+}
+
+h1 {
+  color: #66BFBF;
+  text-transform: uppercase;
+  text-decoration: underline;
+}
+
+h3 {
+  color: #66BFBF;
+  text-transform: capitalize;
+  text-decoration: underline;
+}
